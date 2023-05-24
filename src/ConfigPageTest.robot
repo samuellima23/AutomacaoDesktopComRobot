@@ -32,8 +32,8 @@ Clicar em personalizar e controlar o Google Chrome
 Clicar em configurações
     SikuliLibrary.Click              clicar_configurações.png
 Validar que configurações foi aberto
-    SikuliLibrary.Click Text         chrome://settings
+    SikuliLibrary.Click Text           chrome://settings
 Clicar em idiomas
     SikuliLibrary.Click              clicar_idiomas.png
 Validar que idiomas foi aberto
-    SikuliLibrary.Click Text         Idiomas preferidos
+    SikuliLibrary.Click Text           Idiomas preferidos

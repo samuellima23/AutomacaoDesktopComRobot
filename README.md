@@ -15,3 +15,12 @@ Testes para validar que a página de idiomas da aplicação desktop Google Chrom
 - O Sikuli usa a abordagem de reconhecimento visual para identificar elementos na interface do usuário com base em padrões visuais, em vez de depender de identificadores específicos, como IDs ou nomes de elementos. Ele é capaz de localizar e interagir com elementos na tela por meio de capturas de tela e busca de correspondências visuais.
 
 ## Execução dos testes
+- Para execução dos testes é necessário a instalação do Python, Robot, Sikuli e PywinAuto todos podem ser encontrados no tópico de tecnologias utilizadas.
+- Para executar um teste em específico é necessário rodar o comando: Robot nomedoarquivo.robot.
+
+## Evidências dos testes
+![image](https://github.com/samuellima23/AutomacaoDesktopComRobot/assets/33026663/74ec07a8-310a-44ad-a4ce-199c8b0a9dcf)
+
+![image](https://github.com/samuellima23/AutomacaoDesktopComRobot/assets/33026663/4395f1bf-b6d9-4933-80d9-a48cc0719638)
+
+
